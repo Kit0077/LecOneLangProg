@@ -1,0 +1,15 @@
+C:\Users\RpPrime\Desktop\My_Programmyrovaniya\LanguageProg\LecOne\bin\Debug\net6.0\LecOne.exe
+C:\Users\RpPrime\Desktop\My_Programmyrovaniya\LanguageProg\LecOne\bin\Debug\net6.0\LecOne.deps.json
+C:\Users\RpPrime\Desktop\My_Programmyrovaniya\LanguageProg\LecOne\bin\Debug\net6.0\LecOne.runtimeconfig.json
+C:\Users\RpPrime\Desktop\My_Programmyrovaniya\LanguageProg\LecOne\bin\Debug\net6.0\LecOne.dll
+C:\Users\RpPrime\Desktop\My_Programmyrovaniya\LanguageProg\LecOne\bin\Debug\net6.0\LecOne.pdb
+C:\Users\RpPrime\Desktop\My_Programmyrovaniya\LanguageProg\LecOne\obj\Debug\net6.0\LecOne.csproj.AssemblyReference.cache
+C:\Users\RpPrime\Desktop\My_Programmyrovaniya\LanguageProg\LecOne\obj\Debug\net6.0\LecOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RpPrime\Desktop\My_Programmyrovaniya\LanguageProg\LecOne\obj\Debug\net6.0\LecOne.AssemblyInfoInputs.cache
+C:\Users\RpPrime\Desktop\My_Programmyrovaniya\LanguageProg\LecOne\obj\Debug\net6.0\LecOne.AssemblyInfo.cs
+C:\Users\RpPrime\Desktop\My_Programmyrovaniya\LanguageProg\LecOne\obj\Debug\net6.0\LecOne.csproj.CoreCompileInputs.cache
+C:\Users\RpPrime\Desktop\My_Programmyrovaniya\LanguageProg\LecOne\obj\Debug\net6.0\LecOne.dll
+C:\Users\RpPrime\Desktop\My_Programmyrovaniya\LanguageProg\LecOne\obj\Debug\net6.0\refint\LecOne.dll
+C:\Users\RpPrime\Desktop\My_Programmyrovaniya\LanguageProg\LecOne\obj\Debug\net6.0\LecOne.pdb
+C:\Users\RpPrime\Desktop\My_Programmyrovaniya\LanguageProg\LecOne\obj\Debug\net6.0\LecOne.genruntimeconfig.cache
+C:\Users\RpPrime\Desktop\My_Programmyrovaniya\LanguageProg\LecOne\obj\Debug\net6.0\ref\LecOne.dll
